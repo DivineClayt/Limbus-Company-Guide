@@ -1,3 +1,4 @@
+
 Limbus Company is a real-time turn-based RPG where you command a team of 12 people, referred in-game to as "Sinners". This guide is designed to provide you basic mechanical knowledge, alongside some unique interactions depending on certain things you do.
 
 ## The Basics
@@ -6,6 +7,7 @@ The basics of the game is simple. The game is split into cantos, as of current, 
 
 ## Enkephalin
 
+Enkephalin is the primary resource for playing the game. You use it to enter combat nodes so you can fight and progress through a canto.
 
 Enkephalin is also not just simply for entering nodes. When you click on the enkephalin bar you get a menu brought up, you can then convert your enkephalin into **modules**. These modules allow you to enter dungeons, luxcavations or mirror dungeons.
 
@@ -24,6 +26,29 @@ For example in this image above, Brand Manager Don Quixote is the main banner, s
 Typically there is atleast 1 special banner for the most recent ID, 1 target extraction for a specific sinner and the standard extraction available.
 
 Under no circumstances should you ever pull on the standard extraction, it is simply *not* worth it.
+
+## Walpurgis Night
+
+Walpurgis Night (or Walp, as its know as) is a special event that happens once every 3 months, this event usually has some sort of gameplay thing attached to it, such as spending enkephalin, some unique story content or a boss encounter with requirements. Alongside this comes with two unique identities which are inspired by Project Moon's other games, Library of Ruina and Lobotomy Corporation. These identities are usually pretty advanced but also pretty strong, but they are also incredibly hard to pull for, they do not have particularly high rates like normal banners, but they are higher than regular ID's who would not be on a banner. And you cannot dispense them through the dispenser for the first time they're introduced, you have to wait until next walpurgis night before you can dispense them with egoshards.
+
+## Dispenser
+
+The Dispenser is one of the main ways to obtain new ID's and E.G.O's you specifically want, throughout your time when pulling you will get a resource called egoshards, which you get when pulling a copy of an ID you already have as compensation, the rate is this:
+
+00 IDs = 150 egoshards
+000 IDs = 400 egoshards
+E.G.O = 400 egoshards
+
+It is important to note each sinner has their own set of respective egoshards, so if you wanted a 000 yi sang identity you would need 400 of yi sang's egoshards to be able to dispense one.
+
+The dispenser however cannot dispense:
+
+Walpurgis Night Identities (Unless Walpurgis is currently active, in which case you can dispense all walpurgis ID's which are not from the current event)
+
+The Previous Season's Identities
+
+ID's that have recently been released on a banner (You must wait until a week after they've came out before you can dispense them)
+
 ## Identities
 
 In Gacha Games, you pull characters to obtain them with each having new and different abilities. Limbus Company follows the same idea, but instead of being different characters, it is different Identities (or IDs for short). Each ID has a different set of skills and different set of mechanics for how they work. ID's are effectively "what if's" of your sinner's, like what if X sinner replaced this person? Each Identity typically has atleast 1 status effect related to them, though some have up to 3 status effects, and some of the more earlier ones have no primary status effects associated.
@@ -93,8 +118,39 @@ Counter: You take the attack from the opponent and attack back after unopposed
 Clashable Counter: You clash with the attack, if you win you get to attack back at them, no effect if you fail
 Evade: You dodge the attack, you roll your evade coin against their attack, once per coin on their attack, if your evade value is higher, you dodge, if its lower, you get hit and cant evade for the rest of the attack
 
+## Status Effects
 
+In Limbus, there are multiple status effects throughout the game that can be both positive and negative. Most more recent ID's have status effects unique to them that dictate how their mechanics work, but most, if not all ID's fall into at minimum one of these keywords:
 
+Bleed, Burn, Tremor, Rupture, Sinking, Poise and Charge. I will also go into detailing some important effects too.
+
+Status Effects in limbus have 2 numbers, the number on the left is the potency, which dictates how strong the effect is, the number on the right is the count, which dictates how many times the effect can activate before it expires.
+
+Bleed - Take damage equal to potency when flipping a non-defense skill coin, then reduce count by 1.
+
+Burn - Take damage equal to potency at turn end, then reduce count by 1
+
+Tremor - When attack by skills with the Tremor Burst effect, raise stagger point thresholds by potency, reduce count by 1 at turn end
+
+Rupture - Take damage equal to potency when hit by an attack, then reduce count by 1.
+
+Sinking - Take SP damage equal to potency when hit by an attack, then reduces count by 1. For enemies with no SP value, take gloom damage equal to potency instead.
+
+Poise - On hit, gain a chance to crit equal to potency, then reduce count by 1 if successful, reduce count by 1 on turn end
+
+Charge - A resource used by certain skills/ids for extra effects, count can go up to 20, lower count by 1 on turn end
+
+These are called archetypes, which are what defines what sort of team an ID fits into.
+
+There are some additional effects:
+
+Paralyze - When rolling a coin, fix its coin power to 0 for that flip, then reduce paralyze by 1
+
+Ammo - A unique resource used by some ID's to apply additional effects, when you run out of ammo you no longer apply those effects
+
+Haste - Increases your speed value by the haste value.
+
+Bind - Reduces your speed value by the bind value
 ## E.G.O
 E.G.O is like the ultimate move of a sinner, it is essentially a high rolling skill that costs sin resources to be able to use. As of current, a sinner can have up to four E.G.O skills equipped at once. E.G.O comes in five levels, although ALEPH ego's have not been introduced to the game yet.:
 ZAYIN
@@ -172,3 +228,62 @@ Winning clashes is also how you raise your sanity, so it might be good to sacrif
 There are also 2 buttons on the right, win rate and damage, you should NEVER use these as they dont account for some conditions that may actually prevent you from winning the clash with the skill you use
 
 You should only ever use them for luxcavations or short-filler fights.
+
+## Sin Affinities
+
+In Limbus, each skill typically has a colour surrounding them, these relate to what sin affinity they are.
+
+When you use a skill with a colour and the attack goes through, you gain one "Sin Resource" of the associating colour, which is shown on the right side of the screen.
+
+
+Sin Resources are required to activate E.G.O skills, which are important in combat as you might need them to clash with some important skills in certain fights.
+
+
+The seven sin affinities are:
+
+Wrath - Red
+Lust - Orange
+Sloth - Yellow
+Gluttony - Green
+Gloom - Light Blue
+Pride - Dark Blue
+Envy - Purple
+
+## Sin Resonance
+
+In combat, you get bonuses if you chain attacks with the same sin affinity together, this is called Resonance, and theres two forms of it:
+
+Resonance - Chaining 2 same-sin affinity skills together gives resonance
+A-Resonance - Chaining 3 or more same-sin affinity skills together in a row
+
+The way resonance translates:
+
+Resonance = 3% more damage for the 2nd skill, 9% more damage for the 3rd skill
+A-Res = +1 Clash Power
+
+Clash Power gives +1 base power and +1 final power for the clash, but it does not carry over when the attack is carried out
+
+## Important Abbrieviations
+
+There's some things in the game that are abbrieviated for the sake of simplicity
+
+
+Skill 1 - S1
+Alternate Skill 1 - S1.2
+Skill 2 - S2
+Alternate Skill 2 - S2.2
+Skill 3 - S3
+Alternate Skill 3 - S3.2
+
+Mirror Dungeon - MD
+
+Absolute Resonance - A-Res
+
+Sanity - SP
+Uptie 1/2/3/4 - U1, U2, U3 and U4
+Threadspin 1/2/3/4 - T1, T2, T3 and T4
+Nominable/Random Egoshard Crates - Crates/Boxes
+Refraction Railway - RR
+
+
+

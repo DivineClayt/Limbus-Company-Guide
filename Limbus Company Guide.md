@@ -6,7 +6,6 @@ The basics of the game is simple. The game is split into cantos, as of current, 
 
 ## Enkephalin
 
-Enkephalin is your primary resource in the game. You mainly use it to enter combat nodes, Once you run out, you need to let it recharge before you can go into more combat nodes.
 
 Enkephalin is also not just simply for entering nodes. When you click on the enkephalin bar you get a menu brought up, you can then convert your enkephalin into **modules**. These modules allow you to enter dungeons, luxcavations or mirror dungeons.
 

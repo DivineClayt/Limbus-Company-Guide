@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c0399319b41d2cdf",
+    "id": "60f9171ca53c1536",
     "type": "split",
     "children": [
       {
-        "id": "beb816c8a347f017",
+        "id": "999a6a083a340b10",
         "type": "tabs",
         "children": [
           {
-            "id": "4002a02587981259",
+            "id": "f3e53877ea6a0075",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5145eb6465dd52a7",
+    "id": "2dd98246d4169033",
     "type": "split",
     "children": [
       {
-        "id": "fe14efefe5e98b80",
+        "id": "9f98542d6a281d89",
         "type": "tabs",
         "children": [
           {
-            "id": "1a27e9100e0e9935",
+            "id": "07bee6bbaab25bef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "dda800bae174ad67",
+            "id": "7be6127eb869d27f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "9034177246f16348",
+            "id": "429911075990a728",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 244.5
   },
   "right": {
-    "id": "2c08c848cb450d56",
+    "id": "826f834dc7526054",
     "type": "split",
     "children": [
       {
-        "id": "0f9b783fe1369e6a",
+        "id": "f934165eb130ba13",
         "type": "tabs",
         "children": [
           {
-            "id": "18a5ae3b8e5af79d",
+            "id": "d2837af7f2be4bfe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Hollow-Knight-TTRPG/Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "8d8afd17ba68786c",
+            "id": "63b71394affc1625",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Hollow-Knight-TTRPG/Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "e4522b440141c1db",
+            "id": "cc76fe7586860eec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "2dac26bd4453b2f7",
+            "id": "8f36aa32a9a53d04",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "58291dd7ce8cd790",
+            "id": "a66254a55e562bf7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Hollow-Knight-TTRPG/Core.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,24 +187,64 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "vscode-editor:Create Code File": false,
-      "lean-terminal:Open terminal": false
+      "lean-terminal:Open terminal": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "4002a02587981259",
+  "active": "f3e53877ea6a0075",
   "lastOpenFiles": [
-    "Limbus Company Guide.md",
-    "Pasted image 20261006154039.png",
-    "Pasted image 20261006153515.png",
-    "Pasted image 20261006153454.png",
-    "Pasted image 20261006153334.png",
-    "Pasted image 20261006135926.png",
-    "Pasted image 20261006135418.png",
-    "Pasted image 20261006135328.png",
-    "Pasted image 20261006135302.png",
-    "Pasted image 20261006135250.png",
-    "Pasted image 20261006135213.png",
-    "Welcome.md",
-    "Introduction"
+    "Core/Combat/Actions/Action Types.md",
+    "Core/Combat/Actions/Combat Resources.md",
+    "Core/Combat/Actions/Die Pool.md",
+    "Core/Dice System.md",
+    "Core/Resources.md",
+    "Core/The General Focus.md",
+    "Core/Combat/Actions/Action System.md",
+    "Core/Combat/Rounds.md",
+    "Core/Character Systems/Stats.md",
+    "Core/Character Systems/Levels.md",
+    "Core/Skills.md",
+    "Core/Character Systems",
+    "World/Magic/Spells.md",
+    "README.md",
+    "World/Equipment/Weapons.md",
+    "World/Equipment/Starting Equipment Shop.md",
+    "Core/Facing.md",
+    "Core/Charms/Charms.md",
+    "Core/Charms/Charm Notches.md",
+    "Core/Crest System.md",
+    "Core/Combat/Dodging.md",
+    "Core/Health and Harm/Benches.md",
+    "Core/Health and Harm/Death.md",
+    "Core/Health and Harm/Health and Soul.md",
+    "Racial Points.md",
+    "World/Characters/Races/Moth.md",
+    "Core/Tools/Tools.md",
+    "GM/Room Encounters",
+    "GM/General",
+    "GM/Combat Encounters",
+    "GM/World Building",
+    "Assets/Images/Hunter Crest.png",
+    "Crests/Reaper Crest image.canvas",
+    "Assets/Images/Reaper Crest image.png",
+    "Pasted image 20260823113526.png",
+    "Pasted image 20260823113700.png",
+    "Assets/Images/Reaper Crest.png",
+    "Crests/Reaper Crest image 1.canvas",
+    "Crests/Wanderer Crest image.canvas",
+    "Assets/Images/Reaper Crest Canvas.png",
+    "Assets/Images/Lifeblood.png",
+    "Assets/Images/Pasted image 20260811165911.png",
+    "Assets/Images/Wanderer Crest Canvas.png",
+    "Assets/Images/Hunter Crest Canvas.png",
+    "Crests/Hunter Crest image.canvas",
+    "Core/Tools",
+    "Core/Charms",
+    "GM/Future Crests/Untitled.canvas",
+    "GM/Future Crests",
+    "GM/Cr.canvas",
+    "World/Characters/Races/Beetles",
+    "World/Characters/Races/Ants",
+    "Untitled.canvas"
   ]
 }

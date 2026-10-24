@@ -106,7 +106,7 @@ Coins is your chances for clashing, and how many opportunities you get to raise 
 
 To sum up clashing, bigger number is better. Lets use the downward slash from above as an example.
 
-It has a base power of three, and has a 7 in coin power. So if you roll heads, you add the coin power to the base power, and that becomes your final power. This is then compared against the enemies skill, if its lower, you lose 1 coin, if you have more, this continues until one person runs out of coins on their skill.
+It has a base power of 3, and has a 7 in coin power. So if you roll heads, you add the coin power to the base power, and that becomes your final power. This is then compared against the enemies skill, if its lower, you lose 1 coin, if you have more, this continues until one person runs out of coins on their skill.
 
 The person who loses the clash has their skill cancelled, and the person who won goes ahead with their skill. This is the bread and butter of limbus combat. But there is also defense skills, an alternative you can use by clicking on your character portrait on the combat dashboard, which replaces your bottom skill.
 
@@ -167,7 +167,7 @@ When you use an E.G.O, the sinner activates the passive effect of the E.G.O from
 
 ## Levels and Threadspinning
 
-Each Identity has its own respective level, the current cap is level 65, but your cap is lower for earlier on, but each canto after canto 5 provides +5 to your level cap.
+Each Identity has its own respective level, the current cap is level 65, but your cap is lower for earlier on, but after you complete each canto from canto 6 ownwards, it provides +5 to your level cap.
 
 The higher a persons level is, the better they will be able to clash with higher level enemies, so just make sure you improve the level of your identities.
 
@@ -199,7 +199,7 @@ Each sinner has 2 skills available to choose from, lets use sinclair as an examp
 
 ![[Pasted image 20261006153515.png]]
 
-The bar surrounding his portrait is a physical representation of his health, with the number being what his health is currently at.
+The bar surrounding his portrait is a physical representation of his health, with the orange number being what his health is currently at.
 
 He also has small lines, which dictate stagger points, if his health ever went under that bar due to a skill, he would stagger and become unable to use his skills next turn.
 
@@ -211,7 +211,7 @@ SP is very important, as it dictates your chance for rolling heads/tails. Initia
 
 In some scenarios, you may just have to drag the chain along the skills, which are automatically targetted and out of control for unfocused encounters.
 
-In focused encounters, you would manually select the skill and drag it to the skill you want to clash again, which provides that feedback. Which is known as the forecast.
+In focused encounters, you would manually select the skill and drag it to the skill you want to clash against, which provides that feedback. Which is known as the forecast.
 
 The forecast provides an idea for how it will turn out for your sinner, it comes in 5 categories:
 

@@ -31,9 +31,17 @@ Under no circumstances should you ever pull on the standard extraction, it is si
 
 Walpurgis Night (or Walp, as its know as) is a special event that happens once every 3 months, this event usually has some sort of gameplay thing attached to it, such as spending enkephalin, some unique story content or a boss encounter with requirements. Alongside this comes with two unique identities which are inspired by Project Moon's other games, Library of Ruina and Lobotomy Corporation. These identities are usually pretty advanced but also pretty strong, but they are also incredibly hard to pull for, they do not have particularly high rates like normal banners, but they are higher than regular ID's who would not be on a banner. And you cannot dispense them through the dispenser for the first time they're introduced, you have to wait until next walpurgis night before you can dispense them with egoshards.
 
+As of writing this, the most recent walpurgis was the Dawn Office Trio, and this time around we will be getting the Wedge Office Trio.
+
 ## Dispenser
 
-The Dispenser is one of the main ways to obtain new ID's and E.G.O's you specifically want, throughout your time when pulling you will get a resource called egoshards, which you get when pulling a copy of an ID you already have as compensation, the rate is this:
+The Dispenser is one of the main ways to obtain new ID's and E.G.O's you specifically want, throughout your time when pulling you will get a resource called egoshards, which you get when pulling a copy of an ID you already have as compensation, the rate for duplicate ids is this:
+
+00 IDs = 15 egoshards
+000 IDs = 150 egoshards
+E.G.O = 150 egoshards
+
+The rate for dispensing ids is this:
 
 00 IDs = 150 egoshards
 000 IDs = 400 egoshards
@@ -151,20 +159,37 @@ Ammo - A unique resource used by some ID's to apply additional effects, when you
 Haste - Increases your speed value by the haste value.
 
 Bind - Reduces your speed value by the bind value
+
+These are just the core status effects, there are many unique status effects that you will need to read later on, in that case you just need to read it carefully and see how it changes the fight and what the conditions are.
 ## E.G.O
-E.G.O is like the ultimate move of a sinner, it is essentially a high rolling skill that costs sin resources to be able to use. As of current, a sinner can have up to four E.G.O skills equipped at once. E.G.O comes in five levels, although ALEPH ego's have not been introduced to the game yet.:
+E.G.O is like the ultimate move of a sinner, it is essentially a high rolling skill that costs sin resources to be able to use. As of current, a sinner can have up to four E.G.O skills equipped at once. E.G.O comes in five levels, although ALEPH ego's have not been introduced to the game yet:
 ZAYIN
 TETH
 HE
 WAW
 ALEPH
 
-Typically, the higher level an E.G.O skill is, the more complicated/stronger it is. 
+Typically, the higher level an E.G.O skill is, the more complicated/stronger it is, but also the more sanity it will cost.
 
 You can only have one E.G.O of each level equipped, so you cannot have 2 ZAYIN ego's equipped, but you may have 1 ZAYIN and 1 TETH ego equipped at the same time.
 
 When you use an E.G.O, the sinner activates the passive effect of the E.G.O from that turn onwards, which may vary depending on what it is. As of recent some more newer E.G.O's have a condition that if a specific ID is using the E.G.O, it gets boosted/gets special effects for it.
 
+E.G.O has two costs: a sin resource cost, and a sanity cost.
+
+Sanity Cost determines how much sanity the E.G.O uses when it activates, it does NOT take sanity if you use it and it doesnt activate due to losing a clash.
+
+Sin Resources are gained by using skills, which come in various colours, this is further explained in the sin affinity sector.
+
+You need to have enough sin resources and enough sanity to be able to use an E.G.O
+
+E.G.O's can also be overclocked, making it an entirely new skill.
+
+Most overclocked E.G.O skills uses negative coin power rather than positive, but it usually has a high base power and a stronger effect.
+
+Overclocking E.G.O also increases the sin resource requirement and and the sanity cost.
+
+Technically, if you use E.G.O you can go to -45 sanity and corrode.
 ## Levels and Threadspinning
 
 Each Identity has its own respective level, the current cap is level 65, but your cap is lower for earlier on, but after you complete each canto from canto 6 ownwards, it provides +5 to your level cap.
@@ -206,6 +231,10 @@ He also has small lines, which dictate stagger points, if his health ever went u
 He also has a little blue number with a circle around it, which is sanity (or SP)
 
 SP is very important, as it dictates your chance for rolling heads/tails. Initially you start with a 50/50 each coin at 0sp, but each point increases or decreases the chance to hit heads by 1%, so at 45SP (the cap) you would have a 95% chance to roll heads, and at -45SP you have a 95% chance to roll tails, so theres always a bit of RNG involved
+
+If you hit -45 sanity for any reason whatsoever, your sinner will corrode. In this state, during their entire next turn, their slots will be filled with a corroded E.G.O of the highest quality they have equipped (example, if they had a TETH and WAW ego, they'd corrode with their WAW ego)
+
+Corrosion is HORRIBLE, it usually doesnt target an enemy directly, and it drags some of your sinners into the crossfire, meaning your sinners will take damage and suffer the effects too. Not to mention, you just have no control over what they do for the entire round. After a sinner has corroded and the next turn starts, they return to 0sp under your control.
 
 ![[Pasted image 20261006154039.png]]
 
